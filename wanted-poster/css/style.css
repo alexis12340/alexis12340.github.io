@@ -54,6 +54,7 @@ main {
 
 /* Headings  */
 
+
 h1 {
     text-transform: uppercase;
     font-size:6rem;
@@ -64,16 +65,55 @@ h1 {
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
 }
+h2 {
+    text-shadow: .09;
+    color: darkred;
+    font-family: ;
+    margin: ;
+    text-align: ;
+    text-transform: ;
+}
 
+h3 {
+    color: #000;
+    font font-weight: normal
+    font-family: ;
+    fontsize 2
+    margin
+    text align
+    text transfrom
+}
+h4 {
+    text-shadow: .09;
+    color: darkred;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: .5REM;
+    letter-spacing: .25REM;
+    margin: ;
+    padding-bottom: 1.25rem;
+    text-align: ;
+    text transform: ;
+}
+h4 span{
+    padding: 0.5rem;
+}
 
+h5 {
+    font size: 1rem;
+    margin-top: .25rem;
+    padding: .5rem;
+    background color: #333;
+    color; 
+}
 /* Section & Paragraph */
-
-
+section {}
+p {}
 
 /* Image & Figure */
 
-
-
+img {}
+figure {}
+figcaption {}
 /* Footer */
 
 
