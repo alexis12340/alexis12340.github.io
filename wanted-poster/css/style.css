@@ -161,5 +161,8 @@ figcaption {
     padding: 1rem;
     border-style: solid;
    } 
-
+footer {
+    padding:1rem ;
+    border-top: solid #333;
+}
     
