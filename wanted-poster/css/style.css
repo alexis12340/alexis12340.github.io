@@ -141,16 +141,19 @@ img {
 }
 
 figure { 
-    
+    margin-bottom: 2rem;
 
 }
 
 figcaption {
-
+    padding-top: .5rem;
+    text-align: right;
 }
 
 /* Footer */
 
 footer {
+    padding: 1rem;
+    border-top: #333; width: 2rem;
 
 }
