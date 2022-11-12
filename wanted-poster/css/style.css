@@ -54,7 +54,6 @@ main {
 
 /* Headings  */
 
-
 h1 {
     text-transform: uppercase;
     font-size:6rem;
@@ -65,55 +64,76 @@ h1 {
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
 }
+
 h2 {
-    text-shadow: .09;
-    color: darkred;
-    font-family: ;
-    margin: ;
-    text-align: ;
-    text-transform: ;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    color:darkred;
+    font-weight: normal;
+    font-family:'Alfa Slab One', Garamond, serif;
+    font-size:3rem;
+    letter-spacing:.25rem;
+    margin: 0;
+    text-align:center;
+    text-transform: uppercase;
+
 }
 
 h3 {
-    color: #000;
-    font font-weight: normal
-    font-family: ;
-    fontsize 2
-    margin
-    text align
-    text transfrom
+
+    color:black;
+    font-weight: normal;
+    font-family:'Alfa Slab One', Garamond, serif;
+    font-size:2rem;
+    margin: 0;
+    text-align:center;
+    text-transform: uppercase;
 }
+
 h4 {
-    text-shadow: .09;
-    color: darkred;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: .5REM;
-    letter-spacing: .25REM;
-    margin: ;
-    padding-bottom: 1.25rem;
-    text-align: ;
-    text transform: ;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+    color:darkred;
+    font-weight: normal;
+    font-family:'Alfa Slab One', Garamond, serif;
+    font-size:1.5rem;
+    letter-spacing:.25rem;
+    margin: 0;
+    padding-bottom:1.125rem;
+    text-align:center;
+    text-transform: uppercase;
 }
-h4 span{
-    padding: 0.5rem;
+
+h4 span {
+    padding:0 .5rem;
 }
 
 h5 {
-    font size: 1rem;
-    margin-top: .25rem;
-    padding: .5rem;
-    background color: #333;
-    color; 
+    font-size:1rem;
+    margin-top:.25rem;
+    padding:.5rem;
+    background-color: #333;
+    color:#FFF;
+    font-weight: normal;
+    text-align:center;
 }
+
 /* Section & Paragraph */
+
 section {}
+
 p {}
 
 /* Image & Figure */
 
-img {}
+img {
+    width:100%;
+    margin: 0 auto;
+    max-width:800px;
+}
+
 figure {}
+
 figcaption {}
+
 /* Footer */
 
-
+footer {}
