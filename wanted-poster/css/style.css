@@ -118,9 +118,19 @@ h5 {
 
 /* Section & Paragraph */
 
-section {}
+section { margin-top: .5rem;
 
-p {}
+}
+
+p { margin-top: 1rem; margin-bottom: 1rem;
+    padding-top: 0%;
+    padding-bottom: 0%;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    width: 90%;
+    text-align: left;
+
+}
 
 /* Image & Figure */
 
@@ -130,10 +140,16 @@ img {
     max-width:800px;
 }
 
-figure {}
+figure {
 
-figcaption {}
+}
+
+figcaption {
+
+}
 
 /* Footer */
 
-footer {}
+footer {
+
+}
