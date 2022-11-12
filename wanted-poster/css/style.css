@@ -104,6 +104,7 @@ h4 {
 
 h4 span {
     padding:0 .5rem;
+    
 }
 
 h5 {
@@ -158,6 +159,4 @@ footer {
     padding-right: 1rem;
     padding-bottom: 1rem;
   border-style: solid; border-top: #333; width: 2rem;
-
-
 }
