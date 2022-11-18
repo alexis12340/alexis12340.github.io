@@ -181,7 +181,10 @@ nav a:active {
 }
 
 /* Footer Styles */
-
+footer { 
+    display: flex; 
+    align-items: center; 
+  } 
 
 
 
