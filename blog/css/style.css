@@ -1,0 +1,110 @@
+/* TO GET AN IDEA OF THE CSS YOU WILL LIKELY BE USING, SEE THE LISTS BELOW. */
+
+        /*
+        
+        Spacing 
+
+            - padding (shorthand and/or specific properties like padding-bottom, etc.)
+
+            - margin, (shorthand and/or specific properties like margin-top, etc.)
+
+            - letter-spacing, word-spacing, line-height
+
+            - width, max-width, min-width
+            - height, max-height, min-height
+
+        Typography 
+
+            - font-family, font-size, font-style, font-weight
+
+            - text-decoration, text-align
+
+            - color
+
+            - text-shadow, text-transform */
+
+       html {
+            font-size:16px;
+            font-family:Roboto;sans-serif; 
+            color: #333;
+       }
+        body   {
+            padding:0;
+            margin: 0 auto;
+            font-size: 1rem;
+
+        }
+    img {
+
+    }
+
+      /* header */
+header {
+    margin:0 auto;
+    padding: .5rem 5%;
+    text-align: center;
+}
+
+h1 {
+    font-family:Roboto, serif;
+    font-size: 3.75rem;
+    
+
+}
+ .highlight {
+font-family: Ultra;
+font-weight: normal;
+background-color: #83344d;
+color: #eed;
+padding: 0 1rem;
+font-size: 4rem;
+text-transform: uppercase;
+border-top-left-radius: 1rem;
+border-bottom-right-radius: 1rem;
+box-shadow: 187rem  .187rem  .187rem #333;
+
+ }
+
+/*nav */ 
+    nav {
+margin: 4rem 0 4rem 0;
+padding: 0 5rem;
+border-top: .0625 solid #333;
+border-bottom: .0625rem solid #333;
+
+}
+
+nav a {
+display: inline-block;
+font-size: 1.75rem;
+padding: 2rem 6rem  2rem 0;
+color:aqua;
+
+}
+          
+        /*Box, Layout and Border 
+
+            - border (shorthand and/or specific properties like border-top, border-bottom-radius, border-width, etc.)
+
+            - box-shadow
+
+            - display, float, align-items, align-content
+
+            - grid-template-columns, grid-column-gap
+
+            - transform
+
+        Other
+
+            - :nth()-child (to target specific child elements)
+
+            - :focus, :hover, :active (to target link states)
+
+            - @font-face or @import (to import typefaces)
+
+        */
+
+
+/* ------ START WRITING YOUR CODE BELOW ------ */
+
+
