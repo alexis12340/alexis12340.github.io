@@ -43,37 +43,4 @@ body {
    font-size:.85rem;
   }
   
-   @media only screen and (min-width:600px) {
-    body { 
-     width:70%;
-    }
-  
-    .portfolio-grid {
-     grid-template-columns: repeat(3, 1fr);
-    }
-  
-   }
-  
-   @media only screen and (min-width:800px) {
-    body { 
-     width:60%;
-    }
-   }
-  
-   @media only screen and (min-width:1000px) {
-    body { 
-     width:50%;
-    }
-   }
-  
-    @media only screen and (min-width:1400px) {
-    body { 
-     width:40%;
-    }
-   }
-  
-   @media only screen and (min-width:2000px) {
-    body { 
-     width:30%;
-    }
-   }
+   
