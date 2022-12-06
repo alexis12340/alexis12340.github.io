@@ -88,6 +88,9 @@ body {
     width:90%;
 }
 
+ul {
+    list-style-type:none;
+}
 img {
     width:100%;
     display:block;
@@ -100,35 +103,7 @@ a {
     text-decoration:none;
 }
 
-/* Typographic Styles */
-/* properties to use:
 
-            font-size
-            font-style
-            margin-top
-            padding
-            line-height    
-*/
-
-h2 {
-
-
-}
-
-h3 {
-
-
-}
-
-time {
-
-
-}
-
-P {
-
-
-}
 
 /* Header */
 
