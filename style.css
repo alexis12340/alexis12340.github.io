@@ -7,17 +7,30 @@ body {
   font-family: Arial, Verdana, sans-serif;
   margin:20% auto;
   width:90%;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'mon', sans-serif;
  }
  
  p {
   margin:2rem 0;
   font-weight:200;
  }
- 
- main {
+
+ @font-face {
+  font-family:montserrat;
+  src: url(/Users/alexiswilson/Documents/GitHub/alexis12340.github.io/montserrat-regular.ttf) format('truetype');
+  font-weight:normal;
+  font-style:normal;
+}
+
+@font-face {
+  font-family:josefinslab;
+  src: url(/Users/alexiswilson/Documents/GitHub/alexis12340.github.io/josefinslab-regular copy.ttf) format('truetype');
+  font-weight:normal;
+  font-style:normal 
+}
+main {
   background-color:#ddd;
-    background-image:url(../images/wrinkled-white-paper-background.jpg);
+    background-image:url(/Users/alexiswilson/Documents/GitHub/alexis12340.github.io/wrinkled-white-paper-background.jpg);
     background-size:cover;
     background-repeat: no-repeat;
     border:1px solid #333;
@@ -31,7 +44,7 @@ body {
  
  h1 {
   font-size:4rem;
-  font-family: 'Karantina', cursive;
+  font-family: 'ser', cursive;
   letter-spacing: .125rem;
  }
  .portfolio-grid {
