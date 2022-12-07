@@ -19,14 +19,14 @@ body {
 
  @font-face {
   font-family:montserrat;
-  src: url(/Users/alexiswilson/Documents/GitHub/alexis12340.github.io/montserrat-regular.ttf) format('truetype');
+  src: url(/montserrat-regular.ttf) format('truetype');
   font-weight:normal;
   font-style:normal;
 }
 
 main {
   background-color:#ddd;
-    background-image:url(/Users/alexiswilson/Documents/GitHub/alexis12340.github.io/wrinkled-white-paper-background.jpg);
+    background-image:url(/josefinslab-regular\ copy.ttf);
     background-size:cover;
     background-repeat: no-repeat;
     border:1px solid #333;
