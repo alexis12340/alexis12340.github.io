@@ -8,11 +8,13 @@ body {
   margin:20% auto;
   width:90%;
   font-family: 'mon', sans-serif;
+  text-align: center;
  }
  
  p {
   margin:2rem 0;
   font-weight:200;
+  text-align: center;
  }
 
  @font-face {
@@ -22,12 +24,6 @@ body {
   font-style:normal;
 }
 
-@font-face {
-  font-family:josefinslab;
-  src: url(/Users/alexiswilson/Documents/GitHub/alexis12340.github.io/josefinslab-regular copy.ttf) format('truetype');
-  font-weight:normal;
-  font-style:normal 
-}
 main {
   background-color:#ddd;
     background-image:url(/Users/alexiswilson/Documents/GitHub/alexis12340.github.io/wrinkled-white-paper-background.jpg);
@@ -36,6 +32,7 @@ main {
     border:1px solid #333;
   margin:40px 0;
   max-width:600px;
+  text-align: center;
  }
  
  section {
@@ -46,6 +43,7 @@ main {
   font-size:4rem;
   font-family: 'ser', cursive;
   letter-spacing: .125rem;
+  text-align: center;
  }
  .portfolio-grid {
 
